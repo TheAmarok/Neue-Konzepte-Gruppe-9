@@ -37,7 +37,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "notebook__ueberarbeiten",
-    "last_opened_file_path": "D:/Eigene Dateien/Dokumente/GitHub/Neue-Konzepte-Gruppe-9/Entwurf für Überarbeitung des Notebooks",
+    "last_opened_file_path": "D:/Eigene Dateien/Dokumente/GitHub/Neue-Konzepte-Gruppe-9/tmp_files",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
@@ -45,7 +45,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Eigene Dateien\Dokumente\GitHub\Neue-Konzepte-Gruppe-9\tmp_files" />
       <recent name="D:\Eigene Dateien\Dokumente\GitHub\Neue-Konzepte-Gruppe-9\Entwurf für Überarbeitung des Notebooks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Eigene Dateien\Dokumente\GitHub\Neue-Konzepte-Gruppe-9" />
     </key>
   </component>
   <component name="SharedIndexes">
